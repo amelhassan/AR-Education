@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # This is based on an example at https://github.com/anki/cozmo-python-sdk/blob/master/examples/apps/remote_control_cozmo.py
+# This file allows the user to control Cozmo with a keyboard, and displays Cozmo's live image feed. 
 
 import asyncio
 import io
